@@ -4,7 +4,7 @@
   <title><![CDATA[Sergey Titov's Blog]]></title>
   <link href="blog.sergeytitov.com/atom.xml" rel="self"/>
   <link href="blog.sergeytitov.com/"/>
-  <updated>2013-10-19T18:30:24-04:00</updated>
+  <updated>2013-10-19T19:31:12-04:00</updated>
   <id>blog.sergeytitov.com/</id>
   <author>
     <name><![CDATA[Sergey Titov]]></name>
@@ -12,5 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Ready to blog!]]></title>
+    <link href="blog.sergeytitov.com/blog/2013/10/19/ready-to-blog/"/>
+    <updated>2013-10-19T18:45:00-04:00</updated>
+    <id>blog.sergeytitov.com/blog/2013/10/19/ready-to-blog</id>
+    <content type="html"><![CDATA[<p>I finally set up my blog! Will be writing mostly about programming and a little bit about everything else.</p>
+
+<p><img src="blog.sergeytitov.com/images/blog-image.jpg"></p>
+]]></content>
+  </entry>
   
 </feed>
