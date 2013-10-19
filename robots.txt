@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://sergtitov.github.io/sitemap.xml 
+Sitemap: blog.sergeytitov.com/sitemap.xml 
