@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af320c0a-acbc-41ab-80ce-0d359cf09f76" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CHANGELOG.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Gemfile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Rakefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_config.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config.ru" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/backtick_code_block.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/blockquote.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/category_generator.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/code_block.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/config_tag.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/date.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/gist_tag.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/haml.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/image_tag.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/include_array.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/include_code.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/jsfiddle.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/octopress_filters.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/pagination.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/post_filters.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/preview_unpublished.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/pullquote.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/pygments_code.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/raw.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/render_partial.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/rubypants.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/sitemap_generator.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/titlecase.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/video_tag.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/_base.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/_partials.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/base/_layout.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/base/_solarized.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/base/_theme.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/base/_typography.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/base/_utilities.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/custom/_colors.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/custom/_fonts.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/custom/_layout.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/custom/_styles.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/partials/_archive.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/partials/_blog.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/partials/_footer.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/partials/_header.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/partials/_navigation.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/partials/_sharing.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/partials/_sidebar.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/partials/_syntax.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/partials/sidebar/_base.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/partials/sidebar/_delicious.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/partials/sidebar/_googleplus.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/partials/sidebar/_pinboard.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/plugins/_plugins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/screen.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/after_footer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/archive_post.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/article.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/asides/delicious.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/asides/github.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/asides/googleplus.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/asides/pinboard.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/asides/recent_posts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/custom/after_footer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/custom/asides/about.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/custom/category_feed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/custom/footer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/custom/head.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/custom/header.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/custom/navigation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/disqus.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/facebook_like.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/footer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/google_analytics.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/google_plus_one.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/head.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/header.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/navigation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/post/author.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/post/categories.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/post/date.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/post/disqus_thread.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/post/sharing.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/twitter_sharing.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_layouts/category_index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_layouts/default.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_layouts/page.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_layouts/post.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/background.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/blankButton.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/divider.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/fullscreenButton.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/fullscreenButtonOver.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/muteButton.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/muteButtonOver.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/normalscreenButton.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/normalscreenButtonOver.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/pauseButton.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/pauseButtonOver.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/playButton.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/playButtonOver.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/timeSliderBuffer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/timeSliderCapLeft.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/timeSliderCapRight.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/timeSliderProgress.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/timeSliderRail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/unmuteButton.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/unmuteButtonOver.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/display/background.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/display/bufferIcon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/display/muteIcon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/display/playIcon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/dock/button.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/glow.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/playlist/item.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/playlist/itemOver.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/playlist/sliderCapBottom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/playlist/sliderCapTop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/playlist/sliderRail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/playlist/sliderThumb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/sharing/embedIcon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/sharing/embedScreen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/sharing/shareIcon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/sharing/shareScreen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/player.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/atom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/blog/archives/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/favicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/images/bird_32_gray.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/images/bird_32_gray_fail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/images/code_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/images/dotted-border.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/images/email.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/images/line-tile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/images/noise.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/images/rss.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/images/search.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/javascripts/github.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/javascripts/libs/jXHR.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/javascripts/libs/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/javascripts/libs/swfobject-dynamic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/javascripts/modernizr-2.0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/javascripts/octopress.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/javascripts/pinboard.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/javascripts/twitter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/robots.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
+    <ignored path="sergtitov.github.io.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="sergtitov.github.io" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.8" vertical-offset="0" max-vertical-offset="150">
+              <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="285">
+              <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CNAME" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CNAME">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+              <caret line="0" column="15" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gulpfile.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gulpfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.3561643" vertical-offset="693" max-vertical-offset="1350">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/backend/emailer/config/global.json" />
+        <option value="$PROJECT_DIR$/backend/emailer/cloud/main.js" />
+        <option value="$PROJECT_DIR$/config.json" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/CNAME" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1238" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sergtitov.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sergtitov.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sergtitov.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sergtitov.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sergtitov.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af320c0a-acbc-41ab-80ce-0d359cf09f76" name="Default" comment="" />
+      <created>1421017567220</created>
+      <updated>1421017567220</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1238" height="777" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21313868" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.47153285" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24979457" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33175355" vertical-offset="0" max-vertical-offset="633">
+          <caret line="14" column="77" selection-start-line="14" selection-start-column="77" selection-end-line="14" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/emailer/cloud/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
+          <caret line="0" column="29" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/emailer/config/global.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16587678" vertical-offset="0" max-vertical-offset="633">
+          <caret line="7" column="66" selection-start-line="7" selection-start-column="66" selection-end-line="7" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.8" vertical-offset="0" max-vertical-offset="150">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="285">
+          <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CNAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="334">
+          <caret line="0" column="15" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3561643" vertical-offset="693" max-vertical-offset="1350">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

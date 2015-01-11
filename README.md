@@ -1,2 +1,4 @@
-sergtitov.github.io
-===================
+sergeytitov.com
+================
+
+Code for sergeytitov.com website

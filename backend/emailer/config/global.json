@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "_default": {
+            "link": "sergeytitov.com"
+        }, 
+        "sergeytitov.com": {
+            "applicationId": "UzgQdj8uksUtlBFuFz3EOGMbL4xwQc25vRvjxr3V",
+            "masterKey": "PlQZnlUY3dyE14wSNcXMsc1UjSatxx8WB3TW71SZ"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.0"
+    }
+}
