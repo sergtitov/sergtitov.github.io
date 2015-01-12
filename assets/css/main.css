@@ -1811,6 +1811,13 @@ aside .thumb figure {
     background: #00ACED;
     background: #2FBBED;
 }
+.btn-share-lg:hover .icon-s-linkedin:after,
+.btn-share-md:hover .icon-s-linkedin:after,
+.btn-share-sm:hover .icon-s-linkedin:after,
+.btn-share-xs:hover .icon-s-linkedin:after {
+    background: #00ACED;
+    background: #3F8DBF;
+}
 .btn-share-lg p,
 .btn-share-md p,
 .btn-share-sm p,
