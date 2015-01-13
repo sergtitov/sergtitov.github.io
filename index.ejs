@@ -9,16 +9,16 @@
             <div class="caption vertical-center text-center inner-top-xs">
 
                 <div class="row">
-                    <div class="col-sm-6 inner-top-xs inner-left-xs text-left text-justify">
+                    <div class="col-sm-6 inner-left-xs ">
+                        <img src="assets/images/SergeyTitov_medium@2x.jpg" width="200px" class="profilephoto">
+                    </div><!-- /.col -->
+
+                    <div class="col-sm-6 inner-right-xs text-left text-justify">
                         <h2>Sergey Titov</h2>
                         <p ><%= about_short %></p>
                         <div class="fadeInDown-3">
                             <a href="#" class="btn btn-large">Get in touch</a>
                         </div>
-                    </div><!-- /.col -->
-
-                    <div class="col-sm-6 inner-right-xs text-right">
-                        <img src="assets/images/SergeyTitov_large.jpg" width="300px" height="" alt="">
                     </div><!-- /.col -->
 
 
@@ -358,43 +358,6 @@
 
 <!-- ============================================================= SECTION – GET IN TOUCH : END ============================================================= -->
 
-<!-- ============================================================= SECTION – SHARE ============================================================= -->
-
-<section id="share" class="light-bg">
-    <div class="container">
-
-        <div class="col-sm-3 reset-padding">
-            <a href="<%= linkedin %>" class="btn-share-md">
-                <p class="name">Linkedin</p>
-                <i class="icon-s-linkedin"></i>
-            </a>
-        </div><!-- /.col -->
-
-        <div class="col-sm-3 reset-padding">
-            <a href="<%= twitter %>" class="btn-share-md">
-                <p class="name">Twitter</p>
-                <i class="icon-s-twitter"></i>
-            </a>
-        </div><!-- /.col -->
-
-        <div class="col-sm-3 reset-padding">
-            <a href="<%= facebook %>" class="btn-share-md">
-                <p class="name">Facebook</p>
-                <i class="icon-s-facebook"></i>
-            </a>
-        </div><!-- /.col -->
-
-        <div class="col-sm-3 reset-padding">
-            <a href="<%= googlePlus %>" class="btn-share-md">
-                <p class="name">Google +</p>
-                <i class="icon-s-gplus"></i>
-            </a>
-        </div><!-- /.col -->
-
-    </div><!-- /.container -->
-</section>
-
-<!-- ============================================================= SECTION – SHARE : END ============================================================= -->
-
+<% include partials/social.ejs %>
 
 <% include partials/footer.ejs %>
