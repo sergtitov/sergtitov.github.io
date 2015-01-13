@@ -13,6 +13,8 @@
         "twitter_path": "https://twitter.com/sergtitov",
         "twitter_handle": "@sergtitov",
         "linkedin":"https://www.linkedin.com/pub/sergey-titov-ph-d/2/3b8/247",
+        "facebook":"https://www.facebook.com/sergey.titov.792",
+        "googlePlus":"https://plus.google.com/111570571748202377611",
         "about_short":"Software Architect, Team Leader, and Project Coordinator in a wide variety of enterprise business applications from scalable multi-datacenter platforms written in Java, Node.js, AngularJS with data stored in NoSQL databases like Cassandra to Single-Sign-On solutions with lots of low-level C++."
     }
 }
