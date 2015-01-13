@@ -5834,3 +5834,7 @@ a.changecolor {
 		max-height: 20px;
 	}
 }
+
+.profilephoto {
+    border-radius: 50%
+}
