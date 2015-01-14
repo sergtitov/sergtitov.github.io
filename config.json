@@ -5,6 +5,7 @@
     "src": "src",
     "buildpath" : "build",
     "data" : {
+        "domain": "sergeytitov.com",
         "title": "Sergey Titov",
         "name": "Sergey Titov",
         "email": "sergtitov@gmail.com",
